@@ -47,12 +47,15 @@ Ning lõpptulemus on:
 
 <img src="https://github.com/anriwv/Kval_2024/raw/main/scr/Final.png" alt="Final" height="600">
 
-
 See suudab:
 - mängida korraga rohkem kui ühel oktavil
 - vahetada oktave
 - vahetada instrumente
 - salvestada mängitud pala
-- (saab mängifa ka mitme instrumnendiga. Lõppfailis saavad olla mityu instrumenti)
+- (saab mängida ka mitme instrumnendiga. Lõppfailis saavad olla mittu instrumenti)
 - näha  kui kaua mängib üks noot (kui ammu seda vajutati)
+- terminalis näha millal, mis instrumendiga, millise noodi mängisid
+
+<img src="https://github.com/anriwv/Kval_2024/raw/main/scr/output.png" alt="Final" height="600">
+
 
