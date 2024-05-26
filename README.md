@@ -38,3 +38,21 @@ Jagasin osadeks. (iga fail - 2 sek.)
 Nüüd on mitu kausta. Igas kaustas 88 faili.
 
 
+Prototüübiks oli
+
+<img src="https://github.com/anriwv/Kval_2024/raw/main/scr/prototype.png" alt="prototype" height="700">
+
+
+Ning lõpptulemus on:
+
+<img src="https://github.com/anriwv/Kval_2024/raw/main/scr/Finalpng" alt="Final" height="700">
+
+
+See suudab:
+- mängida korraga rohkem kui ühel oktavil
+- vahetada oktave
+- vahetada instrumente
+- salvestada mängitud pala
+- (saab mängifa ka mitme instrumnendiga. Lõppfailis saavad olla mityu instrumenti)
+- näha  kui kaua mängib üks noot (kui ammu seda vajutati)
+
