@@ -21,13 +21,13 @@ Muusikapalade loomine võib olla keeruline, eriti inimestele, kes pole muusikasp
 
 
 
-Hliifailide saamine:
-Kood, et mängida, kõik vajalikud noodid (korduvalt- uga instrumendi jaoks)
+Heliifailide saamine:
+Kood, et mängida. kõik vajalikud noodid (korduvalt- iga instrumendi jaoks)
 
 <img src="https://github.com/anriwv/Kval_2024/raw/main/scr/3min.png" alt="3min" width="450">
 
 
-Xml fail. Exportisin ja sain 3 minutilise faili.
+Xml fail. Exportisin ja sain ~3 minutilise faili.
 
 <img src="https://github.com/anriwv/Kval_2024/raw/main/scr/Klaver.png" alt="Klaver" width="450">
 
@@ -41,7 +41,7 @@ Jagasin osadeks. (iga fail - 2 sek.)
 Nüüd on mitu kausta. Igas kaustas 88 faili.
 
 
-Prototüübiks oli
+Prototüüp ja esmane disain.
 
 <img src="https://github.com/anriwv/Kval_2024/raw/main/scr/prototype.png" alt="prototype" width="600">
 
