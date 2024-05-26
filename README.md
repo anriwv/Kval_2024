@@ -56,6 +56,6 @@ See suudab:
 - näha  kui kaua mängib üks noot (kui ammu seda vajutati)
 - terminalis näha millal, mis instrumendiga, millise noodi mängisid
 
-<img src="https://github.com/anriwv/Kval_2024/raw/main/scr/output.png" alt="Final" height="600">
+<img src="https://github.com/anriwv/Kval_2024/raw/main/scr/output.png" alt="Final" width="600">
 
 
