@@ -24,17 +24,17 @@ Muusikapalade loomine võib olla keeruline, eriti inimestele, kes pole muusikasp
 Hliifailide saamine:
 Kood, et mängida, kõik vajalikud noodid (korduvalt- uga instrumendi jaoks)
 
-![Valmistamine](https://github.com/anriwv/Kval_2024/raw/main/scr/3min.png){:height="700"}
+![Valmistamine](https://github.com/anriwv/Kval_2024/raw/main/scr/3min.png){:height="400"}
 
 
 Xml fail. Exportisin ja sain 3 minutilise faili.
 
-![Klaver](https://github.com/anriwv/Kval_2024/raw/main/scr/Klaver.png){:height="500"}
+![Klaver](https://github.com/anriwv/Kval_2024/raw/main/scr/Klaver.png){:height="400"}
 
 
 Jagasin osadeks. (iga fail - 2 sek.)
 
-![Valmistamine](https://github.com/anriwv/Kval_2024/raw/main/scr/valmistamine.png){:height="500"}
+![Valmistamine](https://github.com/anriwv/Kval_2024/raw/main/scr/valmistamine.png){:height="300"}
 
 
 
@@ -43,13 +43,13 @@ Nüüd on mitu kausta. Igas kaustas 88 faili.
 
 Prototüübiks oli
 
-![Prototype](https://github.com/anriwv/Kval_2024/raw/main/scr/prototype.png){:height="600"}
+![Prototype](https://github.com/anriwv/Kval_2024/raw/main/scr/prototype.png){:height="300"}
 
 
 
 Ning lõpptulemus on:
 
-![Final](https://github.com/anriwv/Kval_2024/raw/main/scr/Final.png){:height="600"}
+![Final](https://github.com/anriwv/Kval_2024/raw/main/scr/Final.png){:height="300"}
 
 
 See suudab:
@@ -61,6 +61,6 @@ See suudab:
 - näha  kui kaua mängib üks noot (kui ammu seda vajutati)
 - terminalis näha millal, mis instrumendiga, millise noodi mängisid
 
-![output](https://github.com/anriwv/Kval_2024/raw/main/scr/output.png){:height="600"}
+![output](https://github.com/anriwv/Kval_2024/raw/main/scr/output.png){:height="300"}
 
 
