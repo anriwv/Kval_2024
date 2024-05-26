@@ -28,11 +28,11 @@ Kood, et mängida, kõik vajalikud noodid (korduvalt- uga instrumendi jaoks)
 
 Xml fail. Exportisin ja sain 3 minutilise faili.
 
-<img src="https://github.com/anriwv/Kval_2024/blob/main/scr/Klaver.png" alt="Klaver" height="700">
+<img src="https://github.com/anriwv/Kval_2024/blob/main/scr/Klaver.png" alt="Klaver" height="500">
 
 Jagasin osadeks. (iga fail - 2 sek.)
 
-<img src="https://github.com/anriwv/Kval_2024/raw/main/scr/valmistamine.png" alt="Valmistamine" height="700">
+<img src="https://github.com/anriwv/Kval_2024/raw/main/scr/valmistamine.png" alt="Valmistamine" height="500">
 
 
 Nüüd on mitu kausta. Igas kaustas 88 faili.
@@ -40,12 +40,12 @@ Nüüd on mitu kausta. Igas kaustas 88 faili.
 
 Prototüübiks oli
 
-<img src="https://github.com/anriwv/Kval_2024/raw/main/scr/prototype.png" alt="prototype" height="700">
+<img src="https://github.com/anriwv/Kval_2024/raw/main/scr/prototype.png" alt="prototype" height="600">
 
 
 Ning lõpptulemus on:
 
-<img src="https://github.com/anriwv/Kval_2024/raw/main/scr/Finalpng" alt="Final" height="700">
+<img src="https://github.com/anriwv/Kval_2024/raw/main/scr/Final.png" alt="Final" height="600">
 
 
 See suudab:
