@@ -14,6 +14,7 @@ Muusikapalade loomine võib olla keeruline, eriti inimestele, kes pole muusikasp
 > git clone https://github.com/anriwv/Kval_2024.git
 
 > python.exe -m pip install --upgrade pip
+> 
 > pip install -r requirements.txt
 
 > python main.py
