@@ -18,3 +18,13 @@ Muusikapalade loomine võib olla keeruline, eriti inimestele, kes pole muusikasp
 > pip install -r requirements.txt
 
 > python main.py
+
+
+
+Hekifailide saamine:
+![3min](https://github.com/anriwv/Kval_2024/blob/main/scr/3min.png))
+
+![Valmistamine](https://github.com/anriwv/Kval_2024/raw/main/scr/valmistamine.png)
+
+[https://github.com/anriwv/Kval_2024/blob/main/scr/3min.png](https://github.com/anriwv/Kval_2024/blob/main/scr/Klaver.png?raw=true)
+
