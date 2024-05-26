@@ -22,6 +22,12 @@ Muusikapalade loomine võib olla keeruline, eriti inimestele, kes pole muusikasp
 
 
 Hekifailide saamine:
-<img src="https://github.com/anriwv/Kval_2024/raw/main/scr/3min" alt="Valmistamine" height="200">
-<img src="https://github.com/anriwv/Kval_2024/raw/main/scr/valmistamine.png" alt="Valmistamine" height="200">
-<img src="https://github.com/anriwv/Kval_2024/blob/main/scr/Klaver.png" alt="Valmistamine" height="200">
+Kood, et mangid a, koik vajalikud helid
+<img src="https://github.com/anriwv/Kval_2024/raw/main/scr/3min.png" alt="Valmistamine" height="700">
+
+Xml fail Exportisin ja sain 3 minutilise faili.
+<img src="https://github.com/anriwv/Kval_2024/blob/main/scr/Klaver.png" alt="Klaver" height="700">
+
+Jagasin osadeks. (iga fail - 2 sek.)
+<img src="https://github.com/anriwv/Kval_2024/raw/main/scr/valmistamine.png" alt="Valmistamine" height="700">
+
